@@ -1,4 +1,8 @@
 * CogniLoad
 
 ** transformer
-
+  逐步实现Lisp transformer的编码器和解码器。
+  最终目标实现让模型生成式自举Lisp实现。
+  
+** log
+  创建项目时间戳20230405
